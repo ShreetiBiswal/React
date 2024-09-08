@@ -20,7 +20,7 @@ npm start
 ## Running the tests
 
 ```
-npm start test
+npm run test
 ```
 
 ## Built With
