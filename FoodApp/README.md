@@ -1,11 +1,33 @@
-A user interface build with React 
-Uses testing tool jest
+# A Food App Frontend
 
-Commands:-
-1)to run app:-
+Fast React based front-end app for a Food Ordering Service. 
+Project from Namaste React.
+
+
+### Prerequisites
+
+Node Js installed on the system
+
+### Installing
+
+Starting the app
+
+```
 npm i
 npm start
+```
 
-2)to test :-
-npm run test
+## Running the tests
 
+```
+npm start test
+```
+
+## Built With
+
+* [Reactjs](https://react.dev/learn) - Library Used
+* [Jest](https://archive.jestjs.io/docs/en/22.x/getting-started.html) - Testing Library
+
+## Authors
+
+* **Shreeti Biswal**
