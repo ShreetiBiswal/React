@@ -1,0 +1,166 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.shimmer-card{
+  display: flex;
+  justify-content: center;
+  margin: 3px;
+  border-radius: 5px;
+  width: 13%;
+  height: 380px;
+  background-color:lightgray;
+  padding: 1%;
+ }
+
+ .shimmer-container{
+  margin-top: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+ }
+
+ .shimmer-logo{
+  width: 190px;
+  height: 175px;
+  background-image: linear-gradient(rgb(167, 162, 162), rgba(211, 211, 211, 0.832));
+  border-radius: 5px;
+ }
+
+ .shimmer-search{
+  width: 200px;
+  height: 25px;
+  background-color:  rgba(211, 211, 211, 0.832);
+ }
+
+ .shimmer-btn{
+  width: 55px;
+  height: 25px;
+  background-color:  rgba(211, 211, 211, 0.832);
+ }
+
+ .shimmer-filter{
+  margin: 1%;
+   margin-bottom: 0 ;
+   display: flex;
+   gap: 17px;
+ }
+ 
+ /* .logo{
+    height: 70px;
+    border-radius: 50%;
+    border: 2px solid black;
+ }
+
+ .nav-items{
+  display: flex;
+  margin: 0 20px;
+ }
+ .nav-items>ul{
+    display: flex;
+    margin-right: 10px;
+ }
+
+ .nav-items>ul>*{
+    list-style-type: none;
+    margin:0 8px;
+ }
+
+ .nav-btn{
+  height: 40px;
+  width: 70px;
+  cursor: pointer;
+ }
+ .heading{
+    max-height: fit-content;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid black;
+ }
+
+ .res-card{
+   border: 2px solid black;
+   margin: 3px;
+   border-radius: 5px;
+   width: 14%;
+   background-color: lightgray;
+   padding: 1%;
+ }
+ 
+ .res-logo{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+ }
+
+.res-card:hover{
+   background-color: white;
+ }
+
+ .res-container{
+   margin: 2% 0;
+   display: flex;
+   flex-wrap: wrap;
+ }
+
+ .filter{
+   margin: 1%;
+   margin-bottom: 0 ;
+   display: flex;
+   gap: 17px;
+ }
+
+ .btn{
+   cursor: pointer;
+ }
+
+
+.links{
+  text-decoration: none;
+  color: black;
+}
+
+.item *{
+  margin: 0;
+  padding: 0;
+}
+
+.item{
+ max-height: fit-content;
+ min-height: fit-content;
+  width: 100%;
+  border: 1px solid black;
+  padding: 4px;
+  border-radius: 5px;
+  margin: 10px 0;
+
+}
+
+.item:hover{
+  border: 3px solid black;
+}
+
+.item-img{
+  height: 100px;
+  width: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.item-container{
+  display: block;
+}
+
+.user{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 15px;
+  margin-bottom: 4px;
+}
+
+.user:hover{
+  border: 3px solid black;
+} 
+ */
